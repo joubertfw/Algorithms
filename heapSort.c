@@ -83,7 +83,7 @@ int main (int argc, char* argv[]){
         printf("Vetor esta vazio!");
         return -1;
     }
-    printf("\nVetor nao ordenado:\n");
+    printf("\nO vetor nao ordenado:\n");
     //imprimeVetor(V, tam);
     printf("\nVetor ordenado:\n");
     clock_t tempo;
